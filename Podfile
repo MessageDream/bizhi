@@ -15,6 +15,7 @@ pod 'CHTCollectionViewWaterfallLayout', '~>0.4'
 pod 'JSONModel', '~>0.13'
 pod 'AFNetworking-RACExtensions', '~>0.1'
 pod 'Objection', '~> 0.9'
+
  
 post_install do |installer|
   installer.project.targets.each do |target|
